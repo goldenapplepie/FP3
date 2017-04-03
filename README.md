@@ -1,7 +1,7 @@
-## racket/UPL
+## racket/UDP
 My name: Jennifer Green
 
-I used the UPL racket library to create a socket, bind the socket to a local port, connect to the same port, and then send and receive messages.  Our final project is going to deal with scanning for open ports using both TCP and UDP protocols, so this is something that we will need to understand.  
+I used the UDP racket library to create a socket, bind the socket to a local port, connect to the same port, and then send and receive messages.  Our final project is going to deal with scanning for open ports using both TCP and UDP protocols, so this is something that we will need to understand.  
 
 First, we must create a socket that we will connect to our port.
 ```
